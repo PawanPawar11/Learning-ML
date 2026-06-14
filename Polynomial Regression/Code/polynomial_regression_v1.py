@@ -51,8 +51,6 @@ X_curve_poly = poly.transform(X_curve)
 
 y_curve = model.predict(X_curve_poly)
 
-print(y_curve)
-
 plt.scatter(X, y, label="Actual Data")
 plt.plot(X_curve, y_curve, label="Polynomial Curve")
 plt.xlabel("Years")

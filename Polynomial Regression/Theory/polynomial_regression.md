@@ -1,3 +1,10 @@
+# Useful article:
+
+https://www.geeksforgeeks.org/machine-learning/python-implementation-of-polynomial-regression/
+Read it with a calm mind, you'll understand a lot!
+
+---
+
 # What happens internally?
 
 For `degree=2`, a feature like:
